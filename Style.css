@@ -6,6 +6,8 @@ body {
     text-decoration: none;
   }
   
+  a {display: inline-block}
+
   h1,
   h2,
   h3 {
