@@ -3,6 +3,7 @@ body {
     background-color: #663399;
     margin: 0;
     text-align: center;
+    text-decoration: none;
   }
   
   h1,
@@ -19,11 +20,15 @@ body {
     color: #663399; 
     border: none;
     border-radius: 8px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
     cursor: cursor;
   }
-  
+
   button:hover {
-    background-color: #663399;
+    background-color: #000000;
   }
   
   img {
