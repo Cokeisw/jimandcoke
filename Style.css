@@ -1,6 +1,6 @@
 body {
     font-family: "Comic Sans MS", "Comic Sans", cursive;
-    background-color: #663399;
+    background-image: url('campfire.jpg');
     margin: 0;
     text-align: center;
     text-decoration: none;
@@ -56,3 +56,12 @@ body {
     display: block;
     margin-bottom: 10px;
   }
+
+  Video {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+  
