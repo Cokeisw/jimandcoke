@@ -38,7 +38,7 @@ body {
     max-width: 100%;
     height: auto;
   }
-  
+
   label,
   textarea {
     font-size: 0.8rem;
@@ -67,3 +67,6 @@ body {
     min-height: 100%;
   }
   
+  b {
+    color: #663399; 
+  }
